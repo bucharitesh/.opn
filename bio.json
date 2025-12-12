@@ -2,11 +2,15 @@
   "version": 1,
   "name": "Ritesh Bucha",
   "description": "Research & Design Engineer",
+  "style": {
+    "theme": "light",
+    "font": "serif"
+  },
   "sections": [
     {
       "title": "About Me",
       "type": "text",
-      "content": "A longer description about you."
+      "content": "I’m a senior frontend engineer based in India, specializing in building pixel-perfect, engaging, and accessible digital experiences. As a passionate engineer and also a total nerd, I enjoy building software in the sweet spot where design, problem-solving, and engineering meet — creating things that not only look good but are also easy to use and well-built under the hood."
     },
     {
       "title": "Experience",
@@ -31,6 +35,10 @@
         {
           "title": "GitHub",
           "url": "https://github.com/bucharitesh"
+        },
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/remvze"
         }
       ]
     }
