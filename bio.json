@@ -2,23 +2,7 @@
   "version": 1,
   "name": "Ritesh Bucha",
   "description": "Research & Design Engineer",
-  "style": {
-    "theme": "light",
-    "font": "serif"
-  },
   "sections": [
-    {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "Flamapp",
-          "description": "Research & Design Engineer",
-          "url": "https://flamapp.ai",
-          "date": "2022–Present"
-        },
-      ]
-    },
     {
       "title": "Socials",
       "type": "links",
