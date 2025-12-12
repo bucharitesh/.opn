@@ -4,6 +4,23 @@
   "description": "Research & Design Engineer",
   "sections": [
     {
+      "title": "About Me",
+      "type": "text",
+      "content": "A longer description about you."
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "Flamapp",
+          "description": "Research Engineer",
+          "url": "https://flamapp.ai",
+          "date": "2022–Present"
+        }
+      ]
+    },
+    {
       "title": "Socials",
       "type": "links",
       "links": [
@@ -14,11 +31,7 @@
         {
           "title": "GitHub",
           "url": "https://github.com/bucharitesh"
-        },
-        {
-          "title": "X (Twitter)",
-          "url": "https://x.com/bucha_ritesh"
-        },
+        }
       ]
     }
   ]
